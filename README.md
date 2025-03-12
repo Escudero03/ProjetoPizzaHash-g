@@ -52,4 +52,12 @@ Adicionar funcionalidade de carrinho de compras.
 Criar um sistema de pedidos online com backend.
 Melhorar a acessibilidade e experiência do usuário.
 
+## Créditos
+
+Conteúdo original e design:Hashtag (Curso)
+
+Imagens: Diversas fontes (verifique os links externos no código)
+
+Agradeço sinceramente a oportunidade de compartilhar este projeto, que, embora simples, representa um marco significativo no meu aprendizado em desenvolvimento web. Reconheço que ainda tenho um longo caminho a percorrer e muito a aprender, mas estou comprometido em continuar me dedicando e aprimorando minhas habilidades.
+
 
