@@ -1,5 +1,7 @@
 # 🍕 PizzaHash - Landing Page
 
+![Logo do projeto](Nosso-Menu.png)
+
 Bem-vindo ao repositório da **PizzaHash**, uma landing page moderna e responsiva para uma pizzaria fictícia. Este projeto foi desenvolvido para demonstrar uma interface atrativa e funcional para negócios de delivery e restaurantes.
 
 ## 🚀 Tecnologias Utilizadas
