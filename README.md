@@ -1,5 +1,7 @@
 # 🍕 PizzaHash - Landing Page
 
+**Clique e Descubra Nossa Pizzaria** Uma página com detalhes . Acesse agora: <a href="https://escudero03.github.io/ProjetoPizzaHash-g/" style="font-size:120%;" target="_blank">PizzaHash</a>
+
 ![Logo do projeto](Nosso-Menu.png)
 
 Bem-vindo ao repositório da **PizzaHash**, uma landing page moderna e responsiva para uma pizzaria fictícia. Este projeto foi desenvolvido para demonstrar uma interface atrativa e funcional para negócios de delivery e restaurantes.
